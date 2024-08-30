@@ -1,6 +1,16 @@
-HOL assignment README
+# Project Title
 
-Project Description: A simple project to practice Git version control and collaboration.
-Purpose: To demonstrate the use of branching, pull requests, and collaboration in Git.
-Getting Started: Instructions on how to clone the repository and contribute.
-Contribution Guidelines: Basic rules for contributing to the project.
+This is a sample project to demonstrate Git version control.  
+It includes tasks like branching, collaboration, and setting up GitHub Pages.
+
+## Features
+
+- Branching and merging
+- Pull requests
+- Collaboration with a colleague
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/KyawNaingThu/git-hol-assignment.git
